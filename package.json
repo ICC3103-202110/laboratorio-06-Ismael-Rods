@@ -1,0 +1,17 @@
+{
+  "name": "lab_6",
+  "version": "1.0.0",
+  "description": "Lab_6",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ismael-Rods",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^4.1.1",
+    "console-table-printer": "^2.9.0",
+    "figlet": "^1.5.0",
+    "inquirer": "^8.0.0"
+  }
+}
